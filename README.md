@@ -19,7 +19,7 @@ Open for Internships
 
 
 ## About ::
-   Bsc. 3rd year Computer Science student with a concentration in <b> Cybersecurity and Blockchain technologies</b>. Passionate about Cybersecurity, building complex Web Apps, Blockcain and Entrepreneurship. Also, have some experience in Web Development using React Ecosystem. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+   Computer Science Senior with a concentration in <b> Cybersecurity and Blockchain technologies</b>. Passionate about Cybersecurity, building complex Web Apps, Blockcain and Entrepreneurship. Also, have some experience in Web Development using React Ecosystem. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 
 ## Technologies :fire🔥🔥:
 - HTML/CSS/SCSS
